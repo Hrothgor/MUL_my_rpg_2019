@@ -5,3 +5,5 @@ To launch the program :
 
 --> make
 --> ./my_rpg
+
+https://intra.epitech.eu/module/2019/B-MUL-200/MPL-2-1/acti-376596/project/file/B-MUL-200_my_rpg.pdf
